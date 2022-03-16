@@ -9,11 +9,11 @@ authors sometimes have "writers block" it's also true for developers. This list 
 
 These applications are:
 
-- great for improving your coding skills :muscle:;
-- great for experimenting with new technologies 🆕;
-- great for adding to your portfolio to impress your next employer/client :file_folder:;
-- great for using as examples in tutorials (articles or videos) :page_with_curl:;
-- easy to complete and also easily extendable with new features :ok_hand:;
+-   great for improving your coding skills :muscle:;
+-   great for experimenting with new technologies 🆕;
+-   great for adding to your portfolio to impress your next employer/client :file_folder:;
+-   great for using as examples in tutorials (articles or videos) :page_with_curl:;
+-   easy to complete and also easily extendable with new features :ok_hand:;
 
 This is not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up!
 
@@ -46,8 +46,8 @@ required to complete them.
 | [Bin2Dec](./Projects/1-Beginner/Bin2Dec-App.md)                                   | Binary-to-Decimal number converter                         | 1-Beginner |
 | [Border Radius Previewer](./Projects/1-Beginner/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element    | 1-Beginner |
 | [Calculator](./Projects/1-Beginner/Calculator-App.md)                             | Calculator                                                 | 1-Beginner |
-| [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1-Beginner |
 | [Cause Effect App](./Projects/1-Beginner/Cause-Effect-App.md)                     | Click list item to display item details                    | 1-Beginner |
+| [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1-Beginner |
 | [Color Cycle](./Projects/1-Beginner/Color-Cycle-App.md)                           | Cycle a color value through incremental changes            | 1-Beginner |
 | [Countdown Timer](./Projects/1-Beginner/Countdown-Timer-App.md)                   | Event Countdown timer                                      | 1-Beginner |
 | [CSV2JSON App](./Projects/1-Beginner/CSV2JSON-App.md)                             | CSV to JSON converter                                      | 1-Beginner |
@@ -67,17 +67,17 @@ required to complete them.
 | [Pomodoro Clock](./Projects/1-Beginner/Pomodoro-Clock.md)                         | Task timer to aid personal productivity                    | 1-Beginner |
 | [Product Landing Page](./Projects/1-Beginner/Product-Landing-Page.md)             | Showcase product details for possible buyers               | 1-Beginner |
 | [Quiz App](./Projects/1-Beginner/Quiz-App.md)                                     | Test your knowledge by answering questions                 | 1-Beginner |
-| [Recipe App](./Projects/1-Beginner/Recipe-App.md)                                 | Recipe                                                     | 1-Beginner |
 | [Random Meal Generator](./Projects/1-Beginner/Random-Meal-Generator.md)           | Generate random meals                                      | 1-Beginner |
 | [Random Number Generator](./Projects/1-Beginner/Random-Number-Generator.md)       | Generate random number between range.                      | 1-Beginner |
+| [Recipe App](./Projects/1-Beginner/Recipe-App.md)                                 | Recipe                                                     | 1-Beginner |
 | [Roman to Decimal Converter](./Projects/1-Beginner/Roman-to-Decimal-Converter.md) | Convert Roman to Decimal numbers                           | 1-Beginner |
 | [Slider Design](./Projects/1-Beginner/Slider-Design.md)                           | Display images using a slider control                      | 1-Beginner |
 | [Stopwatch App](./Projects/1-Beginner/Stopwatch-App.md)                           | Count time spent on activities                             | 1-Beginner |
 | [TrueOrFalse](./Projects/1-Beginner/True-or-False-App.md)                         | Identify the result of a conditional comparison            | 1-Beginner |
 | [Vigenere Cipher](./Projects/1-Beginner/Vigenere-Cipher.md)                       | Encrypt text using the Vigenere Cypher                     | 1-Beginner |
+| [Weather App](./Projects/1-Beginner/Weather-App.md)                               | Get the temperature, weather condition of a city.          | 1-Beginner |
 | [Wind Chill](./Projects/1-Beginner/Windchill-App.md)                              | Calculate the windchill factor from an actual temperature  | 1-Beginner |
 | [Word Frequency](./Projects/1-Beginner/Word-Frequency-App.md)                     | Calculate word frequency in a block of text                | 1-Beginner |
-| [Weather App](./Projects/1-Beginner/Weather-App.md)                               | Get the temperature, weather condition of a city.          | 1-Beginner |
 
 ### Tier-2: Intermediate Projects
 
@@ -85,11 +85,11 @@ required to complete them.
 | --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- |
 | [Bit Masks](./Projects/2-Intermediate/Bit-Masks-App.md)                           | Using Bit Masks for Conditions                     | 2-Intermediate |
 | [Book Finder App](./Projects/2-Intermediate/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
-| [Calculator CLI](./Projects/2-Intermediate/Calculator-CLI.md)                   | Create a basic calculator cli.             | 2-Intermediate |
+| [Calculator CLI](./Projects/2-Intermediate/Calculator-CLI.md)                     | Create a basic calculator cli.                     | 2-Intermediate |
 | [Card Memory Game](./Projects/2-Intermediate/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |
 | [Charity Finder App](./Projects/2-Intermediate/Charity-Finder-App.md)             | Find a Global Charity to donate to                 | 2-Intermediate |
 | [Chrome Theme Extension](./Projects/2-Intermediate/Chrome-Theme-Extension.md)     | Build your own chrome theme extention.             | 2-Intermediate |
-| [Currency Converter](./Projects/2-Intermediate/Currency-Converter.md)             | Convert one currency to another.                  | 2-Intermediate |
+| [Currency Converter](./Projects/2-Intermediate/Currency-Converter.md)             | Convert one currency to another.                   | 2-Intermediate |
 | [Drawing App](./Projects/2-Intermediate/Drawing-App.md)                           | Create digital artwork on the web                  | 2-Intermediate |
 | [Emoji Translator App](./Projects/2-Intermediate/Emoji-Translator-App.md)         | Translate sentences into Emoji                     | 2-Intermediate |
 | [Flashcards App](./Projects/2-Intermediate/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediate |
@@ -124,14 +124,16 @@ required to complete them.
 | [Battleship Bot](./Projects/3-Advanced/Battleship-Bot.md)                     | Create a Discord bot that plays Battleship                          | 3-Advanced |
 | [Battleship Game Engine](./Projects/3-Advanced/Battleship-Game-Engine.md)     | Create a callable engine to play the Battleship game                | 3-Advanced |
 | [Boole Bots Game](./Projects/3-Advanced/Boole-Bot-Game.md)                    | Battling Bots driven by Boolean algebra                             | 3-Advanced |
-| [Calendar](./Projects/1-Beginner/Calendar-App.md)                             | Create your own Calendar                                            | 3-Advanced |
+| [Bug Race Game](./Projects/3-Advanced/Bug-Race-Game.md)                       | Game that lets the user race bugs                                   | 3-Advanced |
+| [Calendar](./Projects/3-Advanced/Calendar-App.md)                             | Create your own Calendar                                            | 3-Advanced |
 | [Calorie Counter](./Projects/3-Advanced/Calorie-Counter-App.md)               | Calorie Counter Nutrition App                                       | 3-Advanced |
 | [Chat App](./Projects/3-Advanced/Chat-App.md)                                 | Real-time chat interface                                            | 3-Advanced |
 | [Contribution Tracker App](./Projects/3-Advanced/Contribution-Tracker-App.md) | Track funds donated to charity                                      | 3-Advanced |
 | [Elevator](./Projects/3-Advanced/Elevator-App.md)                             | Elevator simulator                                                  | 3-Advanced |
 | [Fast Food Simulator](./Projects/3-Advanced/FastFood-App.md)                  | Fast Food Restaurant Simulator                                      | 3-Advanced |
-| [Instagram Clone](./Projects/3-Advanced/Instagram-Clone-App.md)               | A clone of Facebook's Instagram app                                 | 3-Advanced |
 | [GitHub Timeline](./Projects/3-Advanced/GitHub-Timeline-App.md)               | Generate a timeline of a users GitHub Repos                         | 3-Advanced |
+| [GitTweet](./Projects/3-Advanced/GitTweet-App.md)                             | GitHub app to tweet when a pull request is created                  | 3-Advanced |
+| [Instagram Clone](./Projects/3-Advanced/Instagram-Clone-App.md)               | A clone of Facebook's Instagram app                                 | 3-Advanced |
 | [Kudos Slackbot](./Projects/3-Advanced/Kudos-Slackbot.md)                     | Give recognition to a deserving peer                                | 3-Advanced |
 | [Movie App](./Projects/3-Advanced/Movie-App.md)                               | Browse, Find Ratings, Check Actors and Find you next movie to watch | 3-Advanced |
 | [MyPodcast Library](./Projects/3-Advanced/MyPodcast-Library-app.md)           | Create a library of favorite podcasts                               | 3-Advanced |
@@ -167,15 +169,13 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 ### Main Contributors 🙂🙂
 
-- **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [YouTube Channel](https://youtube.com/florinpop) - [website](https://florin-pop.com).
-- **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock) - [articles](https://medium.com/@jdmedlock)
+-   **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [YouTube Channel](https://youtube.com/florinpop) - [website](https://florin-pop.com).
+-   **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock) - [articles](https://medium.com/@jdmedlock)
 
 ## 100Days100Projects 🚀
 
 As a bonus, I created the [#100Days100Projects challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects). You can find in there 100 more ideas of smaller projects. Enjoy! 😄
 
-
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/sanskar-mk2/app-ideas.svg)](https://starchart.cc/sanskar-mk2/app-ideas)
-
